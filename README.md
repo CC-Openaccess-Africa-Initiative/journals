@@ -18,18 +18,18 @@ This repository is for documentation that supports the Open access in Africa pro
 
 The Problem
 ---
-Open access journals in Africa face several challenges related to maintain digital platforms, the lack of knowledge and how to keep them updated. In most of the cases, public resources are not enough. Also, there is a prevailing challenge on human resources professionalization on publishing practices in the digital environment.  Although there is a few number of journals that use Open Journal System (OJS). Researchers see sharing their research openly as a risk. Many researchers are concerned the won’t get academic promotions, or their research will be scooped if they share it publicly.
+Open access journals in Africa face several challenges related to maintain digital platforms, the lack of knowledge and how to keep them updated. In most of the cases, public resources are not enough. Also, there is a prevailing challenge on human resources professionalization on publishing practices in the digital environment.  Although there is a few number of journals that use Open Journal System (OJS). Researchers see sharing their research openly as a risk. Many African researchers are concerned the won’t get academic promotions, or their research will be scooped if they share it publicly.
 
 Our Solution
 ---
-Open access in Africa  initiative   aims to promote the Open access  research  in Africa by Africans, and also contributors from all the world. This initiative will re-frame the conversation from risk to communicating that an open access successful career is possible. The website will allow open success stories to be searchable by language, location, and research field so researchers can find another researcher’s story they identify with.
+Open access in Africa  initiative   aims to promote the Open access  research  in Africa by Africans, and also contributors from all the world. This initiative will collecte information on open access challenges in Africa. The website designed for this initiative  will allow to users to have information freely by language, location, and research field.
 
 Roadmap
 ---
-CC Open access directory in Africa: We'll be focused on starting  on collecting info on all scholarly publishing in Africa and drafting  a collection guide.
+June 2018 : We'll be focused on starting  on collecting info on all scholarly publishing in Africa and drafting  a collection guide.
 
 End of Summer 2018: 
-Complete the collection on Open access in Africa  
+Complete the collection on Open access in Africa and draft a report for the next CC global summit  
 
 What do we need?
 ---
