@@ -35,7 +35,8 @@ What do we need?
 ---
 You! In whatever way you can help.
 
-**Development**
+# Development
+
 We need all information and databases on open access lunched in Africa and how Open access can be successfully impacted career of researchers in Africa. Our next priority is to design a website that will allow users from Africa to access freely to databases by location, language, academic discipline, and researcher type.
 
 If you are wanting to contribute to the website, the [website repo](https://github.com/CC-Openaccess-Africa-Initiative/journals/) is where you should be! Check out the exisiting issues that need help.
