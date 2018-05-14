@@ -2,7 +2,7 @@
 # Connecting Africa to the Knowledge Commons: From Project to Sustainable Infrastructure
 
 # Introduction
-Open access in Africa face several challenges related to maintain open access digital platforms  and how to keep them updated. In most of the cases, public resources are not enough. Also, there is a prevailing challenge on human resources professionalization on publishing practices in the digital environment.   
+Open access in Africa faces several challenges related to maintain open access digital platforms and how to keep them updated. In most of the cases, public resources are not enough. Also, there is a prevailing challenge on human resources professionalization on publishing practices in the digital environment.   
 
  ----
  # Promote the Open access  research  in Africa by Africans is possible 
@@ -18,7 +18,7 @@ This repository is for documentation that supports the Open access in Africa pro
 
 The Problem
 ---
-Open access journals in Africa face several challenges related to maintain digital platforms, the lack of knowledge and how to keep them updated. In most of the cases, public resources are not enough. Also, there is a prevailing challenge on human resources professionalization on publishing practices in the digital environment.  Although there is a few number of journals that use Open Journal System (OJS). Researchers see sharing their research openly as a risk. Many African researchers are concerned the won’t get academic promotions, or their research will be scooped if they share it publicly.
+Researchers see sharing their research openly as a risk. Many African researchers are concerned the won’t get academic promotions, or their research will be scooped if they share it publicly. 
 
 Our Solution
 ---
