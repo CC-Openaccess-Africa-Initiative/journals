@@ -26,13 +26,10 @@ Open access in Africa  initiative   aims to promote the Open access  research  i
 
 Roadmap
 ---
-Mozsprint, May 2018: We'll be focused on starting the website prototype and drafting the recording guide.
+CC Open access directory in Africa: We'll be focused on starting  on collecting info on all scholarly publishing in Africa and drafting  a collection guide.
 
-Summer 2018: 
-Complete a website prototype for OpenStories, and the how-to guide for recording stories.
-
-Fall 2018:
-Host OpenStories recording events at conferences and Open Access Week events.
+End of Summer 2018: 
+Complete the collection on Open access in Africa  
 
 What do we need?
 ---
